@@ -4,3 +4,5 @@ It contains a rather simple, no-op Python package.
 Two functions:
 `add` - takes two integers and adds them together
 `subtract` - takes two integers and subtracts the second from the first
+
+Multiplication will be added later
